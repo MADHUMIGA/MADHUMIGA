@@ -34,7 +34,7 @@
 </style>
 
 <p align="center">
-  <img src="./Banner.png" alt="my banner"></a>
+  <img src="./Banner.png" alt="my banner">
 </p>
 
 <h3 align="center">
