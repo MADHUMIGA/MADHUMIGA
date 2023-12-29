@@ -34,7 +34,7 @@
 </style>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYscfUBUbqwGd_DHVhG-ZjCOD7MUpxp4uhNe7toUg4ug&s" alt="my banner">
+  <img src="C:\Users\madhu\Downloads\Black Technology LinkedIn Banner.png" alt="my banner">
 </p>
 
 <h3 align="center">
