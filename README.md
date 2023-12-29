@@ -7,21 +7,21 @@ Hi there, I'm <a target="_blank" rel="noreferrer">Madhumiga</a> 👋
 <span>I'm an aspiring Full-Stack Web Developer</span>💻</br>
 <span>Photographer</span> 📸
 </h2> 
-_________________________________________________________________________________________________________
 
-<hr>
+
+
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhumiga-v-b51aa4255"><img align="left" src="./image.png" alt="Madhu | LinkedIn" width="21px"/></a>  
-<a href="">madhumiga96@gmail.com<img align="left" src="./gmail.png" alt="gmail" width="21px"/></a>
+
+<a href="">madhumiga96@gmail.com</a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<p>_________________________________________________________________________________________________________</p>
+
 
 
 ## 🔭 I'm currently working on
@@ -30,7 +30,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - LinkedClone 
 
 
-<p>_________________________________________________________________________________________________________</p>
+
 
 ## 🌱 I'm currently learning
 
@@ -39,7 +39,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - MongoDB
 - API  
 
-<p>_________________________________________________________________________________________________________</p>
+
 
 
 ## 💼 Technical Skills
@@ -77,7 +77,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=social&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=social&logo=GitHub&color=181717)
 
-<p>________________________________________________________________________________________________________</p>
+
 
 
 ## 📈 GitHub Status 
