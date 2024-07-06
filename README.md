@@ -1,84 +1,98 @@
 
-<h3 align="center">
-Hi there, I'm <a target="_blank" rel="noreferrer">Madhumiga</a> 👋
-</h3>
-
-<h2 align="center" >
-<span>I'm an aspiring Full-Stack Web Developer</span>💻</br>
-<span>Photographer</span> 📸
-</h2> 
+<div>
+<div align=center>
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> <br>
+  <b>Hi, I'm Madhumiga</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="vertical-align: middle;">
+</div>
 
 
 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<p align="center">
 
-### 🤝 Connect with me:
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;and,Driven+Individual.;"></a>
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="">madhumiga96@gmail.com</a>
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ 
 
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning competitive programming
+-  💡 I’m curious about Blockchain and Crypto Currency.
+- 👯 I’m looking to collaborate on your open source projects
+- ⚡ Fun fact: I have a habit of talking to my code. It doesn't always respond, but it sure helps with debugging!
 
+<br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-## 🔭 I'm currently working on
+<p align="center">
 
-- Community-Site project(vite+react,supabase)
-- LinkedClone 
-
-
-
-
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Express JS
-- MongoDB
-- API  
-
-
-
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square\\&logo=react&color=61DBFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat-square&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
+- **Languages**:
+    
+   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40" />
+   <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px"></a>
 
 
 
-![](https://img.shields.io/badge/Code-c++-black?logo=c%2B%2B&style=flat-square&color=044F88)
-![](https://img.shields.io/badge/Code-Java-black?logo=java&style=flat-square&color=5382A1)
+  
+- **Front-End Development**:
 
-</br>
+   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React" width="40" height="40" />
+   <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
+   <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="40px" height="40px"></a>
+  
+   
+- **Backend-End Development**:
+ 
+     <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40px" height="40px"></a>
+      <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px"></a>
+      <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="40px" height="40px"></a>
 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=DB7093)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-mui-informational?style=flat&logo=mui&color=1572B6)
-![](https://img.shields.io/badge/Style-TailwindCss-informational?style=flat&logo=tailwindcss&color=06B6D4)
+   
+- **Database**:
+  
+     <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 
-</br>
+- **cloud service**:
+  
+     <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40px" height="40px"></a>
 
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=social&logo=node.js&color=CB3837)
-![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=social&logo=express&color=00C7B7)
+- **Testing**:<br>
+        <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40" />
 
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=social&logo=mongodb&color=F05032)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=social&logo=mysql&color=181717)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=social&logo=firebase&color=181717)
-![](https://img.shields.io/badge/Database-Supabase-informational?style=social&logo=Supabase&color=181717)
-</br>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=social&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=social&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=social&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=social&logo=GitHub&color=181717)
+- **Softwares and Tools**:
+
+    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
 
 
+<br>
+</p>
+
+## 📫 Get In Touch
+<a href="https://www.linkedin.com/in/madhumiga-vijayakumar-b51aa4255/">
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+    <a href="madhumiga96@gmail.com">
+    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br><br>
 
 ## 📈 GitHub Status 
 
@@ -86,5 +100,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHUMIGA&layout=compact)](https://github.com/MADHUMIGA)
 
-<img src="https://komarev.com/ghpvc/?username=MADHUMIGA&style=flat-square&color=blue" />
 
+
+
+
+<div>
